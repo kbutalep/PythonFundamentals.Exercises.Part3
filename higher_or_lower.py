@@ -22,6 +22,6 @@ def higher_or_lower(x, y):
     print("The random number was " + str(y))
 
 higher_or_lower(get_user_input(), random_number())
-#print("The random number was " + str(random_number()))
+
 
 
